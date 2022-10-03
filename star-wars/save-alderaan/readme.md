@@ -1,5 +1,7 @@
 #### * Note: It's better to learn by doing. For a more rewarding learning experience, try to use your own resources (a.k.a Google) to accomplish the requirements under [Create](https://github.com/juamatx/instructions/edit/main/star-wars/save-alderaan/readme.md#Create) . You can use this page to verify your final results. You will need to copy [User Data Script](https://github.com/juamatx/instructions/edit/main/star-wars/save-alderaan/readme.md#user-data-script) for the EC2 instance in us-east-1, the rest is wicked easy!
 
+#### * Also, this tutorial seems long because of the pictures and the text, but it's fairly simple, it should take less than 5 mins to complete.
+
 # Create: 
 - 1 EC2 instance (us-east-1)
   - web server
