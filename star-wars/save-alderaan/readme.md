@@ -93,7 +93,7 @@ echo "<link rel='preconnect' href='https://fonts.googleapis.com'>
 ### Did it work?
 After a few minutes, your instance should be ready to go. You should be able to access your server's web page by selecting your ec2 instance > opening the "details" tab > copy either the "Public IPv4 DNS" or "Public IPv4 address" and paste it in your browser's search bar. You should see the website below!
 
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/60664640/193589447-df3e060c-fc59-4759-8487-49e645ef8221.png">
+<img width="243" alt="image" src="https://user-images.githubusercontent.com/60664640/193831031-3ee858f8-802e-4a1a-995c-b4e7f1540690.png">
 
 
 ## EC2 instance (us-west-1)
