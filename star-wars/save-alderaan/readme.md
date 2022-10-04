@@ -46,18 +46,48 @@ yum update -y
 yum install -y httpd
 systemctl start httpd
 systemctl enable httpd
-echo "<h1>
-TOP SECRET
-</h1>
-<h2>Rebel Alliance Bases:</h2>
+echo "<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&display=swap' rel='stylesheet'>
 
-<ul>
-<li>Dantooine</li>
-<li>Yavin 4</li>
-<li>Mako-Ta</li>
-<li>Clabburn Range</li>
-<li>5251977</li>
-</ul>" > /var/www/html/index.html
+<style>
+  body {
+    color: #ccc5b9;
+    background-color: #0c0f0a;
+    font-family: 'Gemunu Libre', sans-serif
+  }
+
+  h1 {
+    color: #9a031e
+  }
+
+  h2 {
+    color: #fca311
+  }
+
+  p {
+    color: #fca311
+  }
+
+</style>
+
+<body>
+  <h1>
+    TOP SECRET
+  </h1>
+  <h2>Rebel Alliance Bases:</h2>
+
+  <ul>
+    <li>Dantooine</li>
+    <li>Yavin 4</li>
+    <li>Mako-Ta</li>
+    <li>Clabburn Range</li>
+    <li>5251977</li>
+  </ul>
+  <p>
+    May the force be with you
+  </p>
+</body>" > /var/www/html/index.html
 ```
 
 ### Did it work?
