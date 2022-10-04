@@ -112,5 +112,5 @@ Follow the same steps as before. The only exception :
 1. Alderaan in **us-east-1** (web server)
 2. Dantooine in **us-west-1**
 
-### ⚠️ when the tutorial is over, make sure to "Terminate" both instances
+### ⚠️ Don't forget to "Terminate" both instances once done with the tutorial
 <img width="235" alt="image" src="https://user-images.githubusercontent.com/60664640/193592870-b716c4ac-7f51-439a-ad72-d6d5b4a59653.png">
