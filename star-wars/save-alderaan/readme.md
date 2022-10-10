@@ -1,6 +1,6 @@
 #### * This setup seems long because of the pictures and the text, but it's fairly simple, it should take about 5-10 mins to complete.
 
-# Create: 
+# Recipe: 
 - 1 EC2 instance (us-east-1)
   - web server
 - 1 EC2 instance (us-west-1)
