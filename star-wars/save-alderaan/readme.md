@@ -1,4 +1,4 @@
-#### * This setup seems long because of the pictures and the text, but it's fairly simple, it should take about 5-10 mins to complete.
+#### * This should take ~5-10 mins to complete.
 
 # Recipe: 
 - 1 EC2 instance (us-east-1)
